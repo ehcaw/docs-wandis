@@ -21,6 +21,12 @@
               "development"
             ]
           },
+	  {
+	    "group": "Changelog",
+	    "pages": [
+		    "changelog"
+	    ]
+	  },
           {
             "group": "Customization",
             "pages": [
