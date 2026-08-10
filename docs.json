@@ -111,7 +111,8 @@
   "contextual": {
     "options": [
       "download-pdf",
-    "copy"
+    "copy",
+    "download-spec"
   ]
   },
   "footer": {
